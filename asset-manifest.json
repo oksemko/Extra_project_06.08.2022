@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesson-alona-2/static/css/main.7f9e5f64.css",
+    "main.js": "/lesson-alona-2/static/js/main.c7082888.js",
+    "index.html": "/lesson-alona-2/index.html",
+    "main.7f9e5f64.css.map": "/lesson-alona-2/static/css/main.7f9e5f64.css.map",
+    "main.c7082888.js.map": "/lesson-alona-2/static/js/main.c7082888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9e5f64.css",
+    "static/js/main.c7082888.js"
+  ]
+}
